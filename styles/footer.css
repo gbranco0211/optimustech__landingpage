@@ -1,0 +1,42 @@
+footer{
+    margin: 10em auto;
+    text-align: center;
+}
+
+.rodape__titulo{
+    font-size: 36px;
+    font-weight: 600;
+    margin: 20px 0;
+}
+
+.rodape__texto{
+    color: var(--cor-cinza);
+}
+
+.rodape__formulario{
+    margin: 2em 0;
+}
+
+.formulario__input{
+    background-color: transparent;
+    border: 1px solid var(--cor-cinza);
+    border-radius: 12px;
+    width: 25%;
+    height: 40px;
+}
+
+.formulario__input::placeholder{
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 500;
+    padding-left: 12px;
+}
+
+.rodape__credito{
+    margin: 2em 0;
+}
+
+.credito__texto{
+    color: var(--cor-cinza-credito);
+    font-size: 16px;
+}

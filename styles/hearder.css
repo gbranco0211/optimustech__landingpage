@@ -1,0 +1,41 @@
+header{
+    margin: 2em 5em;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar__logo{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.logo__texto{
+    font-size: 18px;
+    color: var(--cor-cinza);
+}
+
+.lista__link{
+    padding: 0.5em;
+    text-decoration: none;
+    font-size: 16px;
+    color: var(--cor-cinza);
+}
+
+.botao{
+    text-decoration: none;
+    padding: 1em;
+    font-size: 16px;
+}
+
+.entrar{
+    color: var(--cor-cinza);
+}
+
+.cadastro{
+    padding: 10px 18px;
+    border: 2px solid var(--cor-vermelho);
+    border-radius: 12px;
+    background-color: var(--cor-vermelho);
+    color: var(--cor-branco);
+}

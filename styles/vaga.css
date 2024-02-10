@@ -1,0 +1,27 @@
+.container__vaga{
+    margin-left: 10em;
+    width: 70%;
+}
+
+.titulo__area{
+    margin: 32px 0;
+}
+
+.vaga{
+    margin: 24px 0;
+    border: 1px solid var(--cor-cinza-secundario);
+    border-radius: 12px;
+    padding: 1em;
+}
+
+.vaga__titulo{
+    font-size: 18px;
+}
+
+.informacoes{
+    display: flex;
+    margin-top: 2em;
+    color: var(--cor-cinza);
+    font-size: 16px;
+    gap: 1em;
+}

@@ -1,0 +1,27 @@
+.talento__container{
+    text-align: center;
+}
+
+.talento__pagina{
+    color: var(--cor-vermelho);
+    padding: 5px 12px;
+    font-size: 14px;
+    border-radius: 12px;
+    background-color: var(--cor-transparente);
+}
+
+.talento__titulo{
+    margin: 16px;
+    font-size: 36px;
+    font-weight: 600;
+}
+
+.talento__texto{
+    color: var(--cor-cinza);
+    font-weight: 400;
+}
+
+.talento__img{
+    width: auto;
+    margin: 4em 0;
+}
