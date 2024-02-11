@@ -39,3 +39,11 @@
     font-size: 14px;
     font-weight: 400;
 }
+
+@media screen and (max-width: 720px) {
+
+    .depoimento__texto{
+        font-size: 24px;
+    }
+    
+}

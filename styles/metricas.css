@@ -24,3 +24,22 @@
     font-weight: 400;
     font-size: 16px;
 }
+
+@media screen and (max-width: 720px){
+
+    .metricas{
+        margin: 2em 6px;
+    }
+    
+    .container__titulo{
+        font-size: 32px;
+    }
+
+    .container__subtitulo{
+        font-size: 16px;
+    }
+
+    .metrica__container{
+        margin: 0 6px;
+    }
+}

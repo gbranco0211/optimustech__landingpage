@@ -40,3 +40,11 @@ footer{
     color: var(--cor-cinza-credito);
     font-size: 16px;
 }
+
+@media screen and (max-width: 720px) {
+    
+    .formulario__input{
+        width: 40%;
+    }
+    
+}

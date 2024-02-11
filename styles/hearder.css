@@ -39,3 +39,14 @@ header{
     background-color: var(--cor-vermelho);
     color: var(--cor-branco);
 }
+
+@media screen and (max-width: 720px){
+    .navbar__lista{
+        display: none;
+    }
+
+    header{
+        margin: 2em 1em;
+    }
+    
+}
